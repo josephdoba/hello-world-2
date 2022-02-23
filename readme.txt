@@ -4,4 +4,4 @@ These are more words
 
 Woah more words!
 
-Lorem ipsum
+Lorem ipsum dolor sit amet, consectetur adipiscing elit.
